@@ -10,7 +10,7 @@ I will keep moving towards my dream. thx 🙌🏼
 
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/StrummingDown](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://github.com/StrummingDown)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com) -->
 <!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123) -->
